@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Kirk Williams Schools</title>
+    </head>
+
+    <body>
+        <main>
+
+        <article>
+        <h2>School's that I have Gratuated from!</h2>
+        </article>
+
+        <header>
+            <p>Here are a list of school's I have degrees from!</p>
+        </header>
+        <p>Lindenwood University</p>
+        <img src="http://www.downtownstl.org/wp-content/uploads/2014/12/lindenwood-1.jpg"/>
+        <p>Jackson State University</p>
+        <img src="http://jackson-state-university-jackson-mississippi.runnerspace.com/members/images/4/26095_full.jpg" />
+        <p>Full Sail University</p>
+        <img src="http://www.orlandojobs.com/getasset/d6226959-ff79-4d7e-8310-9b0d32895d62/" />
+        <footer>
+            @kirkwilliamsstl
+        </footer>
+        </main>
+    </body>
+</html>
